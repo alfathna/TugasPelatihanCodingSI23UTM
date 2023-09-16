@@ -1,6 +1,6 @@
 #Celcius to Fahrenheit
 print("Celcius-fahrenheit")
-celcius = int(input("masukkan suhu c "))
+celcius = float(input("masukkan suhu c "))
 a = 9/5
 b = 32
 hitung = a * celcius + b
